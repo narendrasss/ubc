@@ -208,6 +208,8 @@ The rate of adoption refers to the speed at which products diffuse throughout a 
 
 ## Product Life Cycle
 
+![Product life cycle](./product-life-cycle.png)
+
 A product has four phases in its life cycle: introduction, growth, maturity, and decline.
 
 ### Introduction
@@ -331,3 +333,26 @@ The level of brand equity is measured through four aspects:
   * Costs may not be recovered if not fit with consumers
 
 ## Packaging
+
+The primary goal of packaging is to *attract the consumers' attention*.
+
+* **Primary package**: What the consumers use
+  * Seek convenience in terms of storage, use, and consumption
+* **Secondary package**: Wrapper or exterior cotton that *contains* the primary package
+
+### Role of Packaging
+
+* For *manufacturers*
+  * As a vehicle for branding
+  * Allows same product to target different segments based on package size
+* For *retailers*
+  * To be functional; shelf, storage, prevents damage
+* For *consumers*
+  * Package represents brand's identity
+  * Portrays quality and signals price
+  * Enhances convenience
+
+### Sustainable Packaging
+
+* Recent development where firms attempt to provide more eco-friendly solutions to packaging
+* Examples include *returnable packaging*, use of 3D printing, and *flexible packaging*
