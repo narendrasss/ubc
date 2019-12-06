@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Ch. 09 — Collective Bargaining and Labour Relations
+# Collective Bargaining and Labour Relations
 
 ## Role of Unions and Labour Relations
 
