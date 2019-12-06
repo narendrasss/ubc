@@ -1,5 +1,4 @@
 module.exports = {
-  base: "/ubc/",
   title: "notes",
   description: "A collection of notes",
   themeConfig: {
