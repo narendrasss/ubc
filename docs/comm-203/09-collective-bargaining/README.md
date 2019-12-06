@@ -295,12 +295,6 @@ Unions aim to compensate employees based on seniority whereas management seeks t
 	* Person with best skill and abilities win promotion/job
 	* Seniority is used in the event of **ties** only
 
-## Part 1 Questions
-
-* Explain how the labour relations board regulates the certification process.
-* Identify workers who are prevented from unionization and the reasons for their exclusion
-* How are bargaining units determined?
-
 ## Administration of the Collective Agreement
 
 Administration refers to carrying out the terms of the agreement and resolving any disputes over the interpretation or violation of these terms.
@@ -401,8 +395,3 @@ A **fair** disciplinary process follows three rules:
 | Must have grievance and arbitration process | Cannot suspend unless employee contract provides for it |
 | Can suspend employees who are guilty of a misconduct (subject to it being reduced or rescinded by an arbitrator) | May dismiss *without notice* if employee is guilty of **serious** misconduct (but employee can sue for wrongful dismissal) |
 | When a union employee is dismissed they can file a *grievance* | May dismiss an employee given *reasonable notice* and *severance pay* |
-
-## Part 2 Questions
-
-* Explain the difference between culpable and non-culpable behaviour.
-* How would you advise a company to develop a fair disciplinary procedure?
