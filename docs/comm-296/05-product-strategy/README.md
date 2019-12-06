@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+next: ../06-pricing-strategy/
 ---
 
 # Product Strategy

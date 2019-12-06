@@ -8,8 +8,13 @@ module.exports = {
         '09-collective-bargaining/'
       ],
       '/comm-296/': [
-        '05-product-strategy/'
+        '05-product-strategy/',
+        '06-pricing-strategy/',
+        '07-distribution-strategy/',
+        '08-promotion-strategy/',
+        '09-ethics-sustainability/',
       ]
-    }
+    },
+    smoothScroll: true
   }
 }
