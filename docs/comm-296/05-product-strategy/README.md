@@ -194,3 +194,107 @@ The diffusion of innovation curve (above) shows that the spread of a new product
 * *Early majority*: New products are generally not profitable until this group starts purchasing them. Number of competitors also reached its peak.
 * *Late majority*: The product has reached peak market potential. Sales usually level off or start to decline.
 * *Laggards*: This group likes to avoid change and tend to rely on traditional products until they are no longer available.
+
+### Rate of Adoption
+
+Firms can predict which type of consumers will purchase their new product and adjust their marketing strategies accordingly.
+
+The rate of adoption refers to the speed at which products diffuse throughout a market. Several factors affect the *rate of adoption* for a product.
+
+* *Relative advantage*: If a product is better than its substitutes, then diffusion will be quick.
+* *Compatibility*: Is it easy for consumers to make the substitution? This depends on different consumer preferences.
+* *Observability*: Are the benefits or uses of the product easily communicated or shown to others? The easier it is, the faster the diffusion.
+* *Complexity and trialability*: Simpler products that are relatively easy to "test" will have greater and faster adoption.
+
+## Product Life Cycle
+
+A product has four phases in its life cycle: introduction, growth, maturity, and decline.
+
+### Introduction
+
+The start of a new product or service, typically starts with a single firm.
+
+* Other firms enter with similar or improved products at lower prices
+* Characterized by initial losses due to high start-up costs and relatively low sales revenue
+
+### Growth
+
+Characterized by growing number of product adopters, rapid growth in industry sales and increase in number of competitors.
+
+* Market becomes segmented and consumer preferences increasingly vary
+* Firms attempt to capitalize on segmented market and establish their brand in order to not be outdone by competitors
+* Firms typically see growing profits because of economies of scale in manufacture
+* Some firms exit when they are not able to establish their brand in what is known as an *industry shakeout*
+
+### Maturity
+
+Characterized by the adoption of the late majority group and intense competition.
+
+* Firms see increasing costs as they attempt to defend against fierce competition
+* High competition also means prices are generally lower
+* Firms see their profits level off or decline because of increasing marketing costs and lower prices
+* Market becomes saturated as all or most of potential customers have adopted product
+
+In this phase firms usually attempt to revitalize their product using two strategies: *entry into new markets* or *develop new products*.
+
+---
+
+**Entry into new markets**
+
+* Attempt to enter new, possibly unsaturated, markets
+* Find new market *segments* in current market
+  * e.g. reduce prices
+
+---
+
+**Development of new products**
+
+* Continually innovate to battle competition
+* Introduce new products in an attempt to grow market share
+
+### Decline
+
+When a firm's product is in the decline phase, they have two options: *exit* or *niche*.
+
+* Laggards enter the market
+* Could adjust product to satisfy a niche market
+* Otherwise slowly drop support for product
+
+## Branding
+
+### Brand Value
+
+Brands add value for both consumers and sellers.
+
+* **Brands facilitate purchases**
+  * Easily recognizable so helps consumers make quick decisions
+  * Consumers recognize offering before they see anything about the product itself; already possess a perception on quality and value
+* **Brands establish loyalty**
+  * Consumers learn to trust certain brands and have a strong affinity to them
+  * Consumers will choose the brand's offerings over others
+* **Protect from competition and price competition**
+  * Competitive pressures less threatening because of consumer loyalty
+* **Brands are assets**
+  * A form of ownership; part of company's value
+
+### Brand Equity
+
+Refers to the set of assets and liabilities linked to a brand that add to or subtract from the value provided by the product or service.
+
+The level of brand equity is measured through four aspects:
+
+* **Brand awareness**: How many consumers know about the brand what it stands for?
+  * Greater brand awareness allows for faster decision making
+  * If the consumer is aware of the brand, it probably has valuable attributes
+  * Brand awareness is created through *repeated exposure of brand elements*
+* **Perceived value**: Relationship of product benefits to cost
+  * Usually compared against competitors
+* **Brand associations**: Mental links between a brand and its key product attributes
+  * Often a product of advertising and promotional efforts
+* **Brand loyalty**: Occurs through repeated purchases of product
+  * Reward loyal customers with loyalty program
+  * Low marketing cost to reach loyal customers
+  * Loyal customers tend to spread positive word of mouth
+  * Insulates from competition
+
+## Packaging
