@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "markdown-it-mark": "^3.0.0",
+    "markdown-it-underline": "^1.0.1",
     "vuepress": "^1.2.0"
   },
   "scripts": {

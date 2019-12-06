@@ -46,7 +46,7 @@ In Canada there is a decline in union membership. There are several factors that
 
 ### Impact of Unions on Company Performance
 
-With regards to <mark>productivity</mark>:
+With regards to ==productivity==:
 
 * Unions may decrease productivity if:
 	* Limits are set on workloads
@@ -58,7 +58,7 @@ With regards to <mark>productivity</mark>:
 Unions have other effects on company performance as well:
 
 * Management may be forced to pay greater than attention to employee needs and improve management practices
-* Unions generally have a <mark>negative</mark> effect on profits
+* Unions generally have a ==negative== effect on profits
 	* Union members are paid higher than nonunion members
 	* Higher union productivity does not counteract pay increases
 
@@ -186,7 +186,7 @@ Generally, management have four options:
 
 1. *Union Acceptance*
 	* Accept inevitability of union involvement
-	* <mark>Objective</mark>: negotiate best possible collective agreement
+	* **Objective**: negotiate best possible collective agreement
 2. *Union Resistance*
 	* Create opposition in organizing drives of sectors of company without union operations
 3. *Union Removal*

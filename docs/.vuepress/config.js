@@ -13,5 +13,11 @@ module.exports = {
       ]
     },
     smoothScroll: true
+  },
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require("markdown-it-mark"))
+      md.use(require("markdown-it-underline"))
+    }
   }
 }
