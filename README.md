@@ -1,3 +1,3 @@
-# UBC Notes
+# Notes
 
-Collection of notes for various UBC classes built with [vuepress](https://vuepress.vuejs.org/).
+Collection of personal notes built with [vuepress](https://vuepress.vuejs.org/).
