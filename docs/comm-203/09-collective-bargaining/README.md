@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+next: ../10-international-hr/
 ---
 
 # Collective Bargaining and Labour Relations

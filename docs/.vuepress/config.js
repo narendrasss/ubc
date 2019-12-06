@@ -4,9 +4,6 @@ module.exports = {
   description: "A collection of notes",
   themeConfig: {
     sidebar: {
-      '/comm-203/': [
-        '09-collective-bargaining/'
-      ],
       '/comm-296/': [
         '05-product-strategy/',
         '06-pricing-strategy/',
