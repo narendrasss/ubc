@@ -297,4 +297,37 @@ The level of brand equity is measured through four aspects:
   * Loyal customers tend to spread positive word of mouth
   * Insulates from competition
 
+### Branding Strategies
+
+* **Brand ownership**
+  * *Manufacturer brands*
+    * Owned and managed by manufacturer
+    * Manufacturer manufactures and maintains product quality
+    * Majority of marketed brands are manufacturer brands
+  * *Retailer/store brands*
+    * Also called "private label brands"
+    * Developed by retailers
+    * Develop design/specifications for store brands to be produced by manufacturer
+    * May develop special version of standard merchandise to be sold specifically at that retailer
+* **Naming brands and product lines**
+  * Brand should correspond to single market segment or need
+  * *Family brands*
+    * All products are sold under one brand
+    * Individual brands can benefit from brand awareness associated with family brand
+  * *Individual brands*
+    * Maintain individual identities
+    * Keep family separate from individual products
+* **Co-branding**
+  * Marketing two or more brands together on the same package/promotion/store
+  * Enhance perception of product quality by linking an unknown brand to a well-known brand
+* **Brand licensing**
+  * Contractual arrangement when a firm allows another firm to use their brand name
+  * Common in toys, apparel, accessories and entertainment products
+  * Effective in attracting visibility through a well-known brand
+  * Risky for licensor as brand image may be diluted if used inappropriately
+* **Brand repositioning**
+  * Change a brand's focus to target new market or realign brand emphasis with new market preferences
+  * Usually high costs
+  * Costs may not be recovered if not fit with consumers
+
 ## Packaging
