@@ -109,3 +109,10 @@ List(1, 2, 3) match { case Nil => 42 }
 ```
 
 * Results in a `MatchError` because none of the cases matched the target.
+
+## Data Sharing
+
+We can reuse parts of our data structure when manipulating it. This avoids us having to copy our entire data structure to maintain immutability.
+
+* To add an element to an existing list, say `xs`, we simply do `Cons(x, xs)`.
+* To remove the first element, we just return the tail.
