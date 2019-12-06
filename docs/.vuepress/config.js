@@ -4,10 +4,10 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/comm-203/': [
-        '09-collective-bargaining-and-labour-relations'
+        '09-collective-bargaining/'
       ],
       '/comm-296/': [
-        '05-product-strategy'
+        '05-product-strategy/'
       ]
     }
   }
