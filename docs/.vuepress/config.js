@@ -1,6 +1,6 @@
 module.exports = {
   base: "/ubc/",
-  title: "UBC Notes",
+  title: "notes",
   description: "A collection of notes",
   themeConfig: {
     sidebar: {
