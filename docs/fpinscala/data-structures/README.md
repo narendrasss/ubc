@@ -47,12 +47,35 @@ object List {
 
 The type parameter `[+A]` declared after `List` indicates that `List` is polymorphic (similar to how functions can be polymorphic).
 
-:::tip Type variance
+### Type Variance
+
 The `+` declared before the `A` in `[+A]` indicates that A is *covariant*.
 
 * This means that if `X` is a subtype of `Y`, then `List[X]` is a subtype of `List[Y]`.
 * `Nothing` is a subtype of all types. This covariance allows us to write `List[Double]` and declare it to `Nil` with no problems.
+
+### Variadic Functions
+
+The `apply` function in `object List` is a *variadic* function as it accepts an arbitrary number of `A`s as its arguments.
+
+* The `_*` part of the recursive call to `apply` returns the rest of the arguments.
+
+:::tip Javascript translation
+The same code in Javascript can be written as:
+
+```js
+function apply(...as) {
+  if (as.length === 0) return []
+  return [as[0], apply(as.slice(1))]
+}
+```
 :::
+
+### Companion Objects
+
+A *companion object* is an object with the same name and data type as our declared data type (In the code snippet above, it is the `object List` declaration).
+
+* The companion object contains various convenience functions for working with values of the data type.
 
 ## Pattern Matching
 
