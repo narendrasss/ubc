@@ -9,3 +9,4 @@ next: false
 * **Part 7**: [Distribution Strategy](./07-distribution-strategy/)
 * **Part 8**: [Promotion Strategy](./08-promotion-strategy/)
 * **Part 9**: [Ethics and Sustainability](./09-ethics-sustainability/)
+* [Practice questions](./questions.md)
