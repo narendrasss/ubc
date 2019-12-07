@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+prev: ../08-total-rewards/
 next: ../10-international-hr/
 ---
 
