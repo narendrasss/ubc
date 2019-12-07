@@ -5,6 +5,16 @@ next: ../10-international-hr/
 
 # Collective Bargaining and Labour Relations
 
+## Motivations
+
+Employess would join unions for several reasons:
+
+* Economic gains
+* Job security
+* Fairness/equity
+* Complaint/grievance procedure
+* Voice and participation
+
 ## Role of Unions and Labour Relations
 
 Labour unions represent workers' interests and participates in bargaining processes with employers.
@@ -145,12 +155,39 @@ Refers to the group of individuals that is represented by a union in collective 
 * The LRB has the *exclusive jurisdiction* to determine appropriate bargaining unit.
 * Requires **balance** to maintain bargaining rights of employees and managers.
 
+**Selection Process**
+
+1. Industrial stability: No frequent changes in membership, prefer 1 large unit
+2. No fragmentation of work groups
+3. Community of interest
+   1. Similarity in skills, duties and working conditions
+   2. Similar employer structure
+   3. Integration of employees involved
+   4. Closeness and proximity of employees
+
+**Exclusions from Bargaining Unit**
+
 Some positions are excluded from the bargaining unit and as such will not be covered by the collective agreement:
 
 * Independent contractors
 * Positions exercising managerial capacity
 	* Specifically those positions with power over employment (hiring, firing, wages, etc.)
 * Positions acting in *confidential* capacity over labour relations
+
+**Permissable Employer Actions**
+
+* Refuse entry for non-employees
+* Refuse entry after-hours
+* Prevent union solicitation during work hours
+* Communicate about unionization & employer practices
+  * Cannot threaten, intimidate or coerce employees
+  * Cannot make promises based on union defeat
+
+**Limits of Union Activity**
+
+* No right of access to employer property
+* Can *apply* for access if reside on employer property
+* ==Can make promises to employees==
 
 ### Management Strategies
 
@@ -390,8 +427,8 @@ A **fair** disciplinary process follows three rules:
 	* e.g. oral warning → written warning → short suspension → long suspension → termination
 3. An appropriate **appeal process**
 
-| Union | Non-Union |
-| :----- | :--------- |
-| Must have grievance and arbitration process | Cannot suspend unless employee contract provides for it |
+| Union                                                                                                            | Non-Union                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
+| Must have grievance and arbitration process                                                                      | Cannot suspend unless employee contract provides for it                                                                    |
 | Can suspend employees who are guilty of a misconduct (subject to it being reduced or rescinded by an arbitrator) | May dismiss *without notice* if employee is guilty of **serious** misconduct (but employee can sue for wrongful dismissal) |
-| When a union employee is dismissed they can file a *grievance* | May dismiss an employee given *reasonable notice* and *severance pay* |
+| When a union employee is dismissed they can file a *grievance*                                                   | May dismiss an employee given *reasonable notice* and *severance pay*                                                      |
