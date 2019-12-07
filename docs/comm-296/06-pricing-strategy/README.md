@@ -96,6 +96,34 @@ Channel members refer to parties involved in distribution: manufacturers, wholes
 * Rise of *gray markets*: Legal but irregular channels of distribution to sell goods at lower prices than market
 * Manufacturers require signed agreements before retailers are allowed to be authorized
 
+## Pricing Terms
+
+* Retail selling price (RSP)
+* Manufacturer selling price (MSP)
+* Gross margin = manufacture price - variable costs
+* Contribution margin = sales revenue - variable costs
+* Markup = RSP - MSP / MSP
+* Margin = RSP - MSP / RSP
+* Profit = gross margin - unit fixed cost
+
+### Example
+
+Feathers and Foam Ltd sells its duvet covers for $100 to Ed's Linens. The variable cost per duvet cover is $40. Ed's Linens prices it at $120 in its retail stores.
+
+* What is F&F's gross margin %? `(100-40)/100 = 60%`
+* What is Ed's markup? `120-100 = 20 / 100 = 20%`
+* With a markup of 30%, what margin would Ed generate?
+  * RSP = 1.3 * 100 = 130
+  * Margin = 130 - 100 / 130 = 23%
+* If F&F sells 500 covers to Ed's, what is the total dollar contribution?
+  * Total revenue = 500 * 100 = $50000
+  * Total variable cost = 500 * 40 = $20000
+  * Total dollar contribution = 50,000 - 20,000 = $30,000
+* If F&F were considering a price decrease of 5%, what number of units would they need to sell in order to generate the same dollar contribution?
+  * New price = $95
+  * Required revenue = $50,000
+  * Quantity = 50,000/95 = 527 units
+
 ## Pricing Strategies
 
 ### Everyday Low Pricing (EDLP)
@@ -132,6 +160,12 @@ New products have their own pricing strategies because it is more difficult to d
     * Does not work if low barriers of entry -> competitors can simply charge lower prices
     * High unit costs associated with low sales volume -> tradeoff between high price and high production costs
     * Must eventually lower prices -> margins go down and initial buyers may be irritated at price drops
+
+## Pricing Tactics
+
+* Promotional pricing -> markdowns/discounts/coupons/rebates
+* Bundling -> Packaging basket of products together at one price
+* Addons -> Base price for main product + any extras for complementary goods
 
 ## Legal and Ethical Aspects of Pricing
 
