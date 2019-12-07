@@ -11,6 +11,4 @@ This website is a collection of my personal notes for various things from univer
 
 ## Programming
 
-### Books
-
 * [Functional Programming in Scala](./fpinscala/)
