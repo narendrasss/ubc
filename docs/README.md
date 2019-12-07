@@ -8,6 +8,7 @@ This website is a collection of my personal notes for various things from univer
 
 * **COMM 203**: [Managing the Employment Relationship](./comm-203/)
 * **COMM 296**: [Introduction to Marketing](./comm-296/)
+* **COMM 335**: [Information Systems Technology and Development](./comm-335/)
 
 ## Programming
 
