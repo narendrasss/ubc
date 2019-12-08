@@ -8,6 +8,14 @@
 * Where can employees go for training?
 * What is the difference between a coach and a mentor?
 
+## Managing Employees' Performance
+
+### Slides
+
+* Identify one performance appraisal method and explain the advantages and disadvantages associated with it.
+* Explain the key steps in the performance appraisal process.
+* Describe three potential rater errors, and describe two methods that can help reduce those errors.
+
 ## Collective Bargaining
 
 ### Slides
