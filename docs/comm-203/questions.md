@@ -16,6 +16,15 @@
 * Explain the key steps in the performance appraisal process.
 * Describe three potential rater errors, and describe two methods that can help reduce those errors.
 
+## Total Rewards
+
+### Slides
+
+* Explain the 5 steps used to establish pay rates by firms.
+* Outside of pay-rises, what other methods of compensation could you use to reward employees?
+* What benefits **must** employees provide when taking on new staff?
+* Describe some of the recent trends affecting benefits of Canadian workers.
+
 ## Collective Bargaining
 
 ### Slides
