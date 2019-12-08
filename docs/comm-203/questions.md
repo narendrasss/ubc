@@ -1,5 +1,13 @@
 # COMM 203: Practice Questions
 
+## Training, Learning, and Development
+
+### Slides
+
+* What are the common steps on instructional design?
+* Where can employees go for training?
+* What is the difference between a coach and a mentor?
+
 ## Collective Bargaining
 
 ### Slides
