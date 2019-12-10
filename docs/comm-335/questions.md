@@ -1,14 +1,13 @@
 # COMM 335: Practice Questions
 
-## Transaction Processing
+## Fill in the Blank
 
-1. Explain the basic concepts of transaction processing
-2. Describe the general principles of data processing applications
-3. Differentiate real-time and batch processing
-4. Discuss the concepts of updating data
-
-## Business Processes
-
-1. How can an accounting system be customized using business process mapping?
-2. How can Data Flow Diagrams be used to understand, evaluate and document information systems?
-3. What are the differences between DFD and BPMN?
+1. Data dictionary
+2. Referential integrity
+3. Primary key, one-to-many, intersection
+4. Data Flow Diagram
+5. Batch sequential, batch random
+6. User, application, database
+7. ~~Software~~ System development life cycle
+8. Control Objectives
+9. Opportunity, Pressure
