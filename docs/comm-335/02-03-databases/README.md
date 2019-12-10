@@ -17,11 +17,16 @@ Databases allow secure storage of data for an enterprise. Two main types -> **in
 * Data warehouse
   * Data not used for routine business activities
   * Contains data collected from variety of sources
+  * Used for data analysis
 
 ### External Databases
 
 * External to an organization
 * Typically accessed over the internet
+
+### Key Terms
+
+**DBMS** (Database Management System) -> program that manages and controls the data and interfaces between the data and the applications that use that data.
 
 **Database administrator** is the person in charge of managing the internal databases of an organization.
 
@@ -30,6 +35,13 @@ Key terms:
 * Field -> A single attribute
 * Record -> A logical grouping of related fields
 * Table -> A logical grouping of related records
+
+### Data Dictionary
+
+* Used to centralize, document, control, and coordinate use of data within an organization.
+  * Repository of information about a database (metadata)
+  * Defined and controlled by database administrator
+* Generate reports used for system documentation, database design/implementation, and audit trail
 
 ## Database Design
 
