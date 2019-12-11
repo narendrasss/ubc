@@ -116,3 +116,24 @@ We can reuse parts of our data structure when manipulating it. This avoids us ha
 
 * To add an element to an existing list, say `xs`, we simply do `Cons(x, xs)`.
 * To remove the first element, we just return the tail.
+
+## Fold
+
+The `sum` and `product` functions do somewhat similar things; it returns a value if the List is `Nil`, and does some operation if it's not.
+
+This can be generalized into the `foldRight` function:
+
+```scala
+def foldRight[A, B](as: List[A], z: B)(f: (A, B) => B): B =
+  as match {
+    case Nil => z
+    case Cons(x, xs) => f(x, foldRight(xs, z)(f))
+  }
+```
+
+We can then define `sum` in terms of `foldRight`:
+
+```scala
+def sum2(ns: List[Int]) =
+  foldRight(ns, 0)((x, y) => x + y)
+```
