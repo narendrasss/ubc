@@ -79,15 +79,13 @@ Goal of communications -> Drive consumer to **action**.
 * **Personal selling** -> Two-flow communication between a seller and buyer with the intention of persuading the buyer to purchase the product
 * **Direct marketing** -> Direct interaction with customers with the intention of generating a response or transaction
 
-### Advertising
-
 **Identify target audience**
 
 Can be determining factor in deciding if an advertisement campaign is successful or not.
 
 * Should keep in mind that the target audience may or may not be the current users of the product.
 
-**Advertising strategies**
+**Promotional strategies**
 
 * *Push* strategy -> Increase demand by focusing on ==wholesalers, retailers, and salespeople==.
 * *Pull* strategy -> Get consumers to ==pull== the product into the marketing channel by increasing the demand for it.
@@ -103,6 +101,16 @@ Can be determining factor in deciding if an advertisement campaign is successful
   * May be used to **reposition** an established brand by changing consumer perceptions of the product
 * **Reminder** -> Remind and prompt repurchases.
   * Common in maturity stage of product life cycle
+
+**Message**
+
+* Determine the key message it wants to communicate
+  * Communicate problem solving ability or **unique selling proposition** (what differentiates the product from competitors)
+* Determine the **appeal** that would most effectively convey the message
+  * **Information appeals** -> Appeal consumers by providing factual information
+  * **Emotional appeals** -> Satisfy consumers' emotional desires
+
+### Advertising
 
 **Focus of advertisements**
 
@@ -120,14 +128,6 @@ Considerations when determining the advertising budget:
 * Nature of market and product
   * B2B advertising generally warrants lower costs than B2C
 
-**Message**
-
-* Determine the key message it wants to communicate
-  * Communicate problem solving ability or **unique selling proposition** (what differentiates the product from competitors)
-* Determine the **appeal** that would most effectively convey the message
-  * **Information appeals** -> Appeal consumers by providing factual information
-  * **Emotional appeals** -> Satisfy consumers' emotional desires
-
 ### Public Relations
 
 PR activities often support other promotional efforts by generating free media attention and goodwill.
@@ -144,4 +144,60 @@ PR activities often support other promotional efforts by generating free media a
 * Special events -> open houses, public meetings
 * Social media
 
+### Sales Promotions
 
+Special incentives or excitement-building programs that encourage customers to purchase products. ==Aimed at short-term results==.
+
+* **Coupons** -> Offer discount on the price of specific items when they are purchased
+* **Deal** -> Short term price reduction
+* **Premium** -> Offers an item for free or bargain price as a reward for some type of activity e.g. sampling, buying something else, testing, etc.
+* **Contest** -> Brand-sponsored competition that requires some level of skill or effort
+* **Sweepstakes** -> Offer prizes based on a chance drawing of entrants' names or some other identification
+* **Samples** -> Offer opportunity to try product before they make a buying decision
+* **Loyalty programs** -> Offer premiums or other incentives to returning customers
+* **Point-of-purchase displays** -> Merchandise displays located at point of purchase e.g. checkout counter
+* **Rebates** -> Price reduction in the form of a cashback
+* **Product placement** -> Payment to have a product shown in nontraditional situations e.g. in a movie scene
+
+**Drawbacks**
+
+* Consumers may stockpile items because of price reduction -> shifting sales from ==future to present==.
+  * Not a problem for *perishable* products like groceries
+
+**Cross-promoting** -> Two or more firms join to reach a specific target market.
+
+* All firms must appeal to the same target market
+* Cummulatively create value for customers
+
+### Personal Selling
+
+**Value Added**
+
+Personal selling is costly so many organizations have chosen to move away from it. Many firms still do however, and that's because the **value added** outweights the cost:
+
+* **Provide information and advice** -> Salespeople are knowledgeable and can be good sources of information for customers seeking advice
+* **Save time and simplify buying**
+* **Build relationships** -> Salespeople have the greatest opportunity to build relationships with customers
+
+**Personal Selling Process**
+
+1. Generate and qualify leads
+
+* Generate a list of potential customers (**leads**) and assess their potential (**qualify**)
+  * Ways to discover leads:
+    * Talk to current customers
+    * Search on internet
+    * Networking events
+    * **Inbound marketing** -> Drawing attention of customers through online sources
+    * **Trade shows** -> Major events attended by buyers who choose to be exposed to a variety of products and services
+  * Qualify customers
+    * Do the customer's needs pertain to a specific product or service?
+    * Do they have the financial resources to pay for the product or service?
+
+2. Pre-approach -> Create a plan for meeting with the customer
+
+3. Presentation and handling objections -> Assess customer need and determine how the product can attend to this need.
+
+4. Closing
+
+5. Follow-up
