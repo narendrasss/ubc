@@ -9,4 +9,4 @@
 
 ## Functional Design and Combinator Libraries
 
-A
+* **Chapter 7**: [Purely Functional Parallelism](./parallelism/README.md)
