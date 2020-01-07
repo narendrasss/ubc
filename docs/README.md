@@ -13,3 +13,4 @@ This website is a collection of my personal notes for various things from univer
 ## Programming
 
 * [Functional Programming in Scala](./fpinscala/)
+* [Functional Programming, Simplified](./fp-simplified/README.md)
