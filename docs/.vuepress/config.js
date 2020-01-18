@@ -18,5 +18,11 @@ module.exports = {
       md.use(require("markdown-it-mark"))
       md.use(require("markdown-it-underline"))
     }
-  }
+  },
+  plugins: [
+    'vuepress-plugin-mathjax',
+    {
+      target: 'svg'
+    }
+  ]
 }
